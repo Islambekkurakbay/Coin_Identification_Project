@@ -2,7 +2,7 @@ One of my first projects on Coin Identification problem. Here I used Watershed A
 
 Some of the results:
 
-Watershed Algorithm:
+Watershed Algorithm:\n
 ![coin1](https://user-images.githubusercontent.com/44828507/223369033-2c495995-e7b2-4d45-b908-c708cbbac21f.jpg)
 ![new1](https://user-images.githubusercontent.com/44828507/223369055-85ffa78e-a8b1-4d27-bfc9-084d727f34c5.jpg)
 
